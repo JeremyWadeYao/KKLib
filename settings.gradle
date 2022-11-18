@@ -1,0 +1,3 @@
+include ':KKLib'
+include ':app'
+rootProject.name = "KKTest"
